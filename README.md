@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/0238-product-of-array-except-self) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Prefix Sum
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
