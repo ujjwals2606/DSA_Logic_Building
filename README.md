@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
