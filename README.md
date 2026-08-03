@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 |  |
@@ -120,4 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
