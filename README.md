@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
