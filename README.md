@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/master/1406-stone-game-iii) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwals2606/DSA_Logic_Building/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
